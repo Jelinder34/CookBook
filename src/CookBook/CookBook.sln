@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI.csproj", "{1147B4B3-397E-484C-BDF9-B9BE8A6D703C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "..\ConsoleUI\ConsoleUI.csproj", "{3E1AAB68-E082-44A8-BC43-8170D25E6DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLibrary", "LinqLibrary\LinqLibrary.csproj", "{2C2D8185-D522-4199-B987-2A264851C05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1147B4B3-397E-484C-BDF9-B9BE8A6D703C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1147B4B3-397E-484C-BDF9-B9BE8A6D703C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1147B4B3-397E-484C-BDF9-B9BE8A6D703C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1147B4B3-397E-484C-BDF9-B9BE8A6D703C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1AAB68-E082-44A8-BC43-8170D25E6DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1AAB68-E082-44A8-BC43-8170D25E6DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1AAB68-E082-44A8-BC43-8170D25E6DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1AAB68-E082-44A8-BC43-8170D25E6DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2D8185-D522-4199-B987-2A264851C05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2D8185-D522-4199-B987-2A264851C05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2D8185-D522-4199-B987-2A264851C05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2D8185-D522-4199-B987-2A264851C05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B12611-3B04-42CC-8005-7E16E5E661A6}
+	EndGlobalSection
+EndGlobal
